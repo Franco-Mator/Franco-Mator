@@ -2,10 +2,10 @@
   <title id="t">Tech stack. Automation and AI: Power Automate, Copilot Studio, AI agents, Power Apps, Gen AI APIs, LangChain and RAG, Prompt engineering. Data and BI: Power BI, DAX, Power Query, SQL Server, SharePoint, Excel and VBA. Web and code: Python, TypeScript, Next.js and React, FastAPI, PostgreSQL, Supabase, Docker. Process: Lean Six Sigma, Scrum, BPMN AS-IS and TO-BE, Bizagi.</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05080a"/><stop offset="1" stop-color="#0b1410"/>
+      <stop offset="0" stop-color="#0A0A0A"/><stop offset="1" stop-color="#130F17"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#76B900" stroke-opacity="0.06"/>
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
     </pattern>
     <filter id="neon" x="-20%" y="-50%" width="140%" height="200%">
       <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -15,11 +15,9 @@
       .h{font-size:15px;font-weight:700;letter-spacing:3px}
       .chip{opacity:0;animation:in .5s ease-out forwards}
       .chip rect{fill-opacity:.08;stroke-opacity:.55;stroke-width:1.5}
-      .chip text{font-size:15px;fill:#e6f2dc}
-      .g rect{fill:#76B900;stroke:#76B900}
-      .c rect{fill:#00E5FF;stroke:#00E5FF}
-      .v rect{fill:#B266FF;stroke:#B266FF}
-      .o rect{fill:#FFB020;stroke:#FFB020}
+      .chip text{font-size:15px;fill:#EDEDED}
+      .chip rect{fill:#FFFFFF;stroke:#FFFFFF}
+      .chip rect{fill-opacity:.03;stroke-opacity:.14}
       @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
       .bar{animation:grow 1.2s ease-out forwards;transform-box:fill-box;transform-origin:left;transform:scaleX(0)}
       @keyframes grow{to{transform:scaleX(1)}}
@@ -29,13 +27,13 @@
   </defs>
   <rect width="1200" height="400" rx="18" fill="url(#bg)"/>
   <rect width="1200" height="400" rx="18" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="398" rx="17" fill="none" stroke="#76B900" stroke-opacity=".3" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="398" rx="17" fill="none" stroke="#EF233C" stroke-opacity=".3" stroke-width="2"/>
 
   <!-- column 1 -->
   <g class="mono">
-    <circle class="pulse" cx="44" cy="44" r="5" fill="#76B900" filter="url(#neon)"/>
-    <text x="58" y="49" class="h" fill="#9BFF2E">AUTOMATION + AI</text>
-    <rect class="bar" x="40" y="60" width="250" height="2" fill="#76B900"/>
+    <circle class="pulse" cx="44" cy="44" r="5" fill="#EF233C" filter="url(#neon)"/>
+    <text x="58" y="49" class="h" fill="#FF4D5E">AUTOMATION + AI</text>
+    <rect class="bar" x="40" y="60" width="250" height="2" fill="#EF233C"/>
     <g class="chip g" style="animation-delay:.10s"><rect x="40" y="80" width="250" height="34" rx="8"/><text x="56" y="102">Power Automate</text></g>
     <g class="chip g" style="animation-delay:.18s"><rect x="40" y="122" width="250" height="34" rx="8"/><text x="56" y="144">Copilot Studio</text></g>
     <g class="chip g" style="animation-delay:.26s"><rect x="40" y="164" width="250" height="34" rx="8"/><text x="56" y="186">AI agent orchestration</text></g>
@@ -47,9 +45,9 @@
 
   <!-- column 2 -->
   <g class="mono">
-    <circle class="pulse" cx="334" cy="44" r="5" fill="#00E5FF" filter="url(#neon)" style="animation-delay:-.6s"/>
-    <text x="348" y="49" class="h" fill="#00E5FF">DATA + BI</text>
-    <rect class="bar" x="330" y="60" width="250" height="2" fill="#00E5FF" style="animation-delay:.15s"/>
+    <circle class="pulse" cx="334" cy="44" r="5" fill="#A78BFA" filter="url(#neon)" style="animation-delay:-.6s"/>
+    <text x="348" y="49" class="h" fill="#A78BFA">DATA + BI</text>
+    <rect class="bar" x="330" y="60" width="250" height="2" fill="#A78BFA" style="animation-delay:.15s"/>
     <g class="chip c" style="animation-delay:.30s"><rect x="330" y="80" width="250" height="34" rx="8"/><text x="346" y="102">Power BI</text></g>
     <g class="chip c" style="animation-delay:.38s"><rect x="330" y="122" width="250" height="34" rx="8"/><text x="346" y="144">DAX · Power Query</text></g>
     <g class="chip c" style="animation-delay:.46s"><rect x="330" y="164" width="250" height="34" rx="8"/><text x="346" y="186">SQL · SQL Server</text></g>
@@ -60,9 +58,9 @@
 
   <!-- column 3 -->
   <g class="mono">
-    <circle class="pulse" cx="624" cy="44" r="5" fill="#B266FF" filter="url(#neon)" style="animation-delay:-1.2s"/>
-    <text x="638" y="49" class="h" fill="#C995FF">WEB + CODE</text>
-    <rect class="bar" x="620" y="60" width="250" height="2" fill="#B266FF" style="animation-delay:.3s"/>
+    <circle class="pulse" cx="624" cy="44" r="5" fill="#8B5CF6" filter="url(#neon)" style="animation-delay:-1.2s"/>
+    <text x="638" y="49" class="h" fill="#C4B5FD">WEB + CODE</text>
+    <rect class="bar" x="620" y="60" width="250" height="2" fill="#8B5CF6" style="animation-delay:.3s"/>
     <g class="chip v" style="animation-delay:.50s"><rect x="620" y="80" width="250" height="34" rx="8"/><text x="636" y="102">Python</text></g>
     <g class="chip v" style="animation-delay:.58s"><rect x="620" y="122" width="250" height="34" rx="8"/><text x="636" y="144">TypeScript</text></g>
     <g class="chip v" style="animation-delay:.66s"><rect x="620" y="164" width="250" height="34" rx="8"/><text x="636" y="186">Next.js · React</text></g>
@@ -74,9 +72,9 @@
 
   <!-- column 4 -->
   <g class="mono">
-    <circle class="pulse" cx="914" cy="44" r="5" fill="#FFB020" filter="url(#neon)" style="animation-delay:-1.8s"/>
-    <text x="928" y="49" class="h" fill="#FFC857">PROCESS</text>
-    <rect class="bar" x="910" y="60" width="250" height="2" fill="#FFB020" style="animation-delay:.45s"/>
+    <circle class="pulse" cx="914" cy="44" r="5" fill="#D4D4D4" filter="url(#neon)" style="animation-delay:-1.8s"/>
+    <text x="928" y="49" class="h" fill="#E5E5E5">PROCESS</text>
+    <rect class="bar" x="910" y="60" width="250" height="2" fill="#D4D4D4" style="animation-delay:.45s"/>
     <g class="chip o" style="animation-delay:.70s"><rect x="910" y="80" width="250" height="34" rx="8"/><text x="926" y="102">Lean Six Sigma</text></g>
     <g class="chip o" style="animation-delay:.78s"><rect x="910" y="122" width="250" height="34" rx="8"/><text x="926" y="144">Scrum Master</text></g>
     <g class="chip o" style="animation-delay:.86s"><rect x="910" y="164" width="250" height="34" rx="8"/><text x="926" y="186">BPMN · AS-IS / TO-BE</text></g>

@@ -3,26 +3,26 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alberto-alvarado-jara/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Lima,_Peru-76B900?style=for-the-badge" alt="Based in Lima, Peru" />
-  <img src="https://img.shields.io/badge/Open_to-Freelance_web_projects-00B8D4?style=for-the-badge" alt="Open to freelance web projects" />
-  <img src="https://komarev.com/ghpvc/?username=Franco-Mator&style=for-the-badge&color=76B900&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/alberto-alvarado-jara/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="Connect on LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Lima,_Peru-EF233C?style=for-the-badge&labelColor=0A0A0A" alt="Based in Lima, Peru" />
+  <img src="https://img.shields.io/badge/Open_to-Freelance_web_projects-8B5CF6?style=for-the-badge&labelColor=0A0A0A" alt="Open to freelance web projects" />
+  <img src="https://komarev.com/ghpvc/?username=Franco-Mator&style=for-the-badge&color=EF233C&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-## ⚡ About me
+## About me
 
 I'm **Alberto Franco Alvarado**, a Systems & Information Engineering student at UPC (Lima, Peru) and a **Process & Automation Analyst at Pacífico Salud**. I take slow, manual work and turn it into automations: Power Automate flows, **Copilot Studio agents that coordinate other agents**, Power Apps and Power BI dashboards that people actually use.
 
 Outside the 9-to-5 I **build and sell websites and web apps** for small businesses, co-founded the perfume e-commerce **Priméssia Parfums**, and spend way too much time reading GPU spec sheets and squeezing extra FPS out of Windows.
 
-- 🔭 **Building:** AI agents for healthcare operations, and my thesis, a deep-learning model that predicts bank customer churn
-- 🧠 **Learning:** transformers, LLM agents and AI/cloud certifications
-- 💬 **Ask me about:** automating a process end to end, Power Platform, Next.js + FastAPI, or which GPU to buy
-- 🎮 **Off the clock:** Valorant (always entry), PC tuning, fragrances
+- **Building:** AI agents for healthcare operations, and my thesis, a deep-learning model that predicts bank customer churn
+- **Learning:** transformers, LLM agents and AI/cloud certifications
+- **Ask me about:** automating a process end to end, Power Platform, Next.js + FastAPI, or which GPU to buy
+- **Off the clock:** Valorant (always entry), PC tuning, fragrances
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="center">
   <img src="./assets/stack.svg" width="100%" alt="Tech stack. Automation and AI: Power Automate, Copilot Studio, AI agent orchestration, Power Apps, Gen AI APIs, LangChain and RAG, prompt engineering. Data and BI: Power BI, DAX, Power Query, SQL Server, SharePoint, Excel and VBA, deep learning and SHAP. Web and code: Python, TypeScript, Next.js, React, FastAPI, PostgreSQL, Supabase, Docker, Tailwind CSS. Process: Lean Six Sigma, Scrum, BPMN AS-IS and TO-BE, Bizagi, project management." />
@@ -30,7 +30,7 @@ Outside the 9-to-5 I **build and sell websites and web apps** for small business
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Automation impact
+## Automation impact
 
 | What I automated | Built with | Result |
 |---|---|---|
@@ -39,24 +39,24 @@ Outside the 9-to-5 I **build and sell websites and web apps** for small business
 | Smart file-search bot for a projects team | Copilot · Power Automate · SharePoint | Documents found in seconds, not folders |
 | Disbursement tracking dashboards | Power BI · DAX · SQL Server | **7× faster** reporting |
 
-## 🧩 Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Franco-Mator/Fran-Optimizer">⚡ Fran Optimizer</a></h3>
+      <h3><a href="https://github.com/Franco-Mator/Fran-Optimizer">Fran Optimizer</a></h3>
       Native Windows desktop app that boosts FPS and lowers input lag for competitive games. Hardware detection, a restore point before any change, and every tweak can be undone.<br/><br/>
       <code>Python</code> <code>CustomTkinter</code> <code>winreg</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Franco-Mator/Mi-blog-CV-">🌐 Personal portfolio</a></h3>
+      <h3><a href="https://github.com/Franco-Mator/Mi-blog-CV-">Personal portfolio</a></h3>
       My CV as a website: experience, automation case studies, certifications and an "off the clock" section, with motion and a hidden easter egg.<br/><br/>
       <code>Next.js 15</code> <code>TypeScript</code> <code>Tailwind v4</code> <code>Framer Motion</code>
     </td>
   </tr>
 </table>
 
-**🔒 Private and client work** (code not public):
+**Private and client work** (code not public)
 
 - **drAIn Flow (thesis):** bank churn prediction with a CNN-BiLSTM + attention model, calibrated probabilities and SHAP explanations, served through FastAPI and tracked with MLflow and DVC.
 - **E-commerce and business platforms for clients:** full-stack stores and web apps with Next.js, FastAPI, PostgreSQL and Docker.
@@ -66,13 +66,13 @@ Outside the 9-to-5 I **build and sell websites and web apps** for small business
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🖥️ Battle station
+## Battle station
 
 <p align="center">
   <img src="./assets/rig.svg" width="100%" alt="Battle station: NVIDIA GeForce RTX 5070, AMD Ryzen 7 9700X, 32 GB DDR5 at 6000 MHz, 27 inch 1440p 240 Hz IPS monitor, Razer Viper V2 Pro, AULA 68HE keyboard, Razer BlackShark V2 Pro. Main game: Valorant as entry fragger." />
 </p>
 
-## 🐍 Contribution activity
+## Contribution activity
 
 <p align="center">
   <picture>
@@ -83,7 +83,7 @@ Outside the 9-to-5 I **build and sell websites and web apps** for small business
 </p>
 
 <details>
-  <summary><b>📜 Certifications</b></summary>
+  <summary><b>Certifications</b></summary>
   <br/>
 
 - Lean Six Sigma (Tecnológico de Monterrey)

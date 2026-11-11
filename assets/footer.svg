@@ -2,13 +2,13 @@
   <title id="t">Thanks for stopping by. Let's automate something together.</title>
   <defs>
     <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#76B900"/><stop offset=".5" stop-color="#00E5FF"/><stop offset="1" stop-color="#B266FF"/>
+      <stop offset="0" stop-color="#EF233C"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#8B5CF6"/>
     </linearGradient>
     <filter id="neon" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <clipPath id="frame"><rect width="1200" height="150" rx="18"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1200" height="150" fill="#05080a"/>
+    <rect width="1200" height="150" fill="#0A0A0A"/>
     <path fill="url(#w1)" opacity=".18">
       <animate attributeName="d" dur="8s" repeatCount="indefinite"
         values="M0 90 C 200 60, 400 120, 600 90 C 800 60, 1000 120, 1200 90 V150 H0Z;
@@ -21,7 +21,7 @@
                 M0 100 C 200 70, 400 130, 600 100 C 800 70, 1000 130, 1200 100;
                 M0 100 C 200 130, 400 70, 600 100 C 800 130, 1000 70, 1200 100"/>
     </path>
-    <text x="600" y="58" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="20" fill="#cfe9b8">thanks for stopping by · <tspan fill="#9BFF2E">let's automate something together</tspan><tspan fill="#9BFF2E">_<animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
-    <rect x="1" y="1" width="1198" height="148" rx="17" fill="none" stroke="#76B900" stroke-opacity=".3" stroke-width="2"/>
+    <text x="600" y="58" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="20" fill="#e5e5e5">thanks for stopping by · <tspan fill="#FF4D5E">let's automate something together</tspan><tspan fill="#FF4D5E">_<animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+    <rect x="1" y="1" width="1198" height="148" rx="17" fill="none" stroke="#EF233C" stroke-opacity=".3" stroke-width="2"/>
   </g>
 </svg>
